@@ -1,3 +1,8 @@
-Pizza Sales Report
+## Pizza Sales Report
 
-Source Credibility: https://youtu.be/V-s8c6jMRN0
+Tools used: 
+- SQL
+- Power BI
+- Excel
+  
+Inspired by Data Tutorial on Youtube
