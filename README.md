@@ -5,4 +5,4 @@ Tools used:
 - Power BI
 - Excel
   
-Inspired by Data Tutorial on Youtube
+Inspired by `Data Tutorial` on Youtube
